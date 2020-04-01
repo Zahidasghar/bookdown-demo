@@ -1,6 +1,6 @@
 --- 
 title: "A Minimal Book Example"
-author: "Zahid Asghar"
+author: "Yihui Xie"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
